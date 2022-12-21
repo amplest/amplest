@@ -1,16 +1,17 @@
-### Hi there 👋
+## 所愿皆所求 🤡
 
-<!--
-**amplest/amplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' width='50%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=amplest&show_icons=true&theme=vue-dark" />
 
-Here are some ideas to get you started:
+<p align='left'>
+  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤦‍♂️ 我姓熊，大家都喜欢喊我 大熊
+- 🧑‍💻 一枚前端开发工程师，坐标无锡
+- 📧 邮箱：simon.webok@gmail.com
+- 🔗 博客：https://yktool.com
+- 🔗 掘金：https://juejin.cn/user/2577687572919224
