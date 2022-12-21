@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
-- 🤦‍♂️ 我姓熊，大家都喜欢喊我 大熊
+- 🤦‍♂️ 我姓熊，可以喊我大熊
 - 🧑‍💻 一枚前端开发工程师，坐标无锡
 - 📧 邮箱：simon.webok@gmail.com
 - 📔 博客：https://yktool.com
